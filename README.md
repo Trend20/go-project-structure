@@ -1,0 +1,1 @@
+####  Project structure for a large Golang project. Can be customized based on the project requirements and heafures
